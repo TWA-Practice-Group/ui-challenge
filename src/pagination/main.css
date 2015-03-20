@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+
+}
+div.pagination {
+    margin: 0;
+}
+div.prev,
+div.next{
+    /*border: 1px solid #000;*/
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    text-align: center;
+    line-height: 30px;
+    color: #5F91CC;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+div.next {
+    margin-left: -5px;
+}
+
+
+ul,li {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+li {
+    border: 1px solid #EFF0F2;
+    text-align: center;
+    width: 16px;
+    height: 20px;
+    line-height: 20px;
+    margin-right: 4px;
+    color: #A9A9A9;
+    font-family: 'Open Sans', arial, sans-serif;
+    vertical-align: middle;
+}
+
+li:hover {
+    background: #A9A9A9;
+    color: #FFF;
+}
+
+li.current {
+    border: none;
+    font-size: 25px;
+    color: #3E3B3C;
+}
