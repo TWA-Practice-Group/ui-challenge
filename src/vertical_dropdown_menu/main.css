@@ -1,0 +1,99 @@
+body {
+    margin: 0;
+}
+
+.menu{
+    margin: 0;
+}
+ul#menu,li {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+img {
+    height: 72px;
+    width: 302px;
+}
+#work {
+    width: 114px;
+    height: 45px;
+    line-height: 59px
+}
+
+#services {
+    width: 133px;
+    height: 45px;
+    line-height: 59px;
+}
+
+#pulse {
+    width: 138px;
+    height: 45px;
+    line-height: 59px;
+}
+
+#pulse a:hover {
+    background: black;
+    color: #ffffff;
+}
+
+#partnerships {
+    width: 169px;
+    height: 45px;
+    line-height: 59px;
+}
+#start {
+    width: 202px;
+    height: 45px;
+    line-height: 59px
+}
+
+#about {
+    width: 135px;
+    height: 45px;
+    line-height: 59px
+}
+
+a {
+    color: #889DA7;
+    text-decoration: none;
+    font-size: 23px;
+}
+
+ul#menu {
+    display: inline-block;
+    padding: 0;
+    background-color: #0D1C2D;
+    height: 72px;
+    font-style: italic;
+}
+
+ul#menu li {
+    border: 0px solid #879DA8;
+    border-left-width: 1px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#dropMenu {
+    width: 400px;
+    height: 160px;
+    padding: 0;
+    background-color: #0D2C2D;
+}
+
+#item1, #item2, #item3 {
+    margin: 0;
+    padding: 0;
+    width: 205px;
+    border-left-width: 0px;
+    border-bottom-width: 1px;
+    height: 0px;
+    line-height: 0px;
+}
+
+#item1 a, #item2 a, #item3 a{
+    font-size: 20px;
+}
