@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    background-color: #493569;
+}
+
+#logo img {
+    height: 184px;
+    width: 707px;
+    border: 0px solid #ffffff;
+    border-bottom-width: 1px;
+}
+
+#title li {
+    display: inline-block;
+    width: 250px;
+    font-size: 38px;
+    color: #ffffff;
+}
+
+#menu {
+    border: 0px solid #493569;
+    border-left-width: 115px;
+    border-top-width: 115px;
+}
+
+#menu li {
+    margin: 0px;
+    display: block;
+    width: 553px;
+    height: 100px;
+    line-height: 105px;
+    font-size: 38px;
+    color: #ffffff;
+}
+
+#start:hover {
+    background: #716085;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 55px;
+}
+
+#dropdown li {
+    margin: 0px;
+    padding: 0px;
+    border: 0px solid #48326A;
+    border-left-width: 648px;
+    font-size: 50px;
+}
