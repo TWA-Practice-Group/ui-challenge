@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+}
+
+#tag {
+    background-color: #EAEAEA;
+    height: 597px;
+    width: 348px;
+    border: 1px solid #EAEAEA;
+    border-top-width: 14px;
+    border-left-width: 11px;
+}
+
+#tagInput {
+    width: 330px;
+    height: 20px;
+    border: 1px solid #ffffff;
+}
+
+#table {
+    border: 1px solid #EAEAEA;
+    border-top-width: 10px;
+    border-left-width: 5px;
+}
+
+table {
+    width: 10px;
+    display: inline-table;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 6px;
+    font-size: 13px;
+    border: 0px solid black;
+    border-bottom-width: 1px;
+
+}
