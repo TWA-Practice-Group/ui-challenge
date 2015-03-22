@@ -14,25 +14,30 @@ body {
 #tagInput {
     width: 330px;
     height: 20px;
-    border: 1px solid #ffffff;
+    border: 1px solid #F0F0F0;
+    background-color: #F0F0F0;
 }
 
 #table {
     border: 1px solid #EAEAEA;
     border-top-width: 10px;
-    border-left-width: 5px;
+    border-left-width: 2px;
 }
 
 table {
-    width: 10px;
+    width: 326px;
     display: inline-table;
     border-collapse: collapse;
 }
 
 td {
     padding: 6px;
-    font-size: 13px;
-    border: 0px solid black;
+    font-size: 15px;
+    border: 0px solid #CBCBCB;
     border-bottom-width: 1px;
+    color: #9B9B9B;
+}
 
+a {
+    color: #1645DB;
 }
