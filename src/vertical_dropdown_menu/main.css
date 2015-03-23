@@ -13,25 +13,25 @@ ul#menu,li {
 }
 
 img {
-    height: 72px;
-    width: 302px;
+    height: 56px;
+    width: 282px;
 }
 #work {
-    width: 114px;
+    width: 87px;
     height: 45px;
-    line-height: 59px
+    line-height: 50px;
 }
 
 #services {
-    width: 133px;
+    width: 103px;
     height: 45px;
-    line-height: 59px;
+    line-height: 50px;
 }
 
 #pulse {
-    width: 138px;
+    width: 103px;
     height: 45px;
-    line-height: 59px;
+    line-height: 50px;
 }
 
 #pulse a:hover {
@@ -40,33 +40,33 @@ img {
 }
 
 #partnerships {
-    width: 169px;
+    width: 130px;
     height: 45px;
-    line-height: 59px;
+    line-height: 50px;
 }
 #start {
-    width: 202px;
+    width: 155px;
     height: 45px;
-    line-height: 59px
+    line-height: 50px;
 }
 
 #about {
-    width: 135px;
+    width: 103px;
     height: 45px;
-    line-height: 59px
+    line-height: 55px;
 }
 
 a {
     color: #889DA7;
     text-decoration: none;
-    font-size: 23px;
+    font-size: 16px;
 }
 
 ul#menu {
     display: inline-block;
     padding: 0;
     background-color: #0D1C2D;
-    height: 72px;
+    height: 56px;
     font-style: italic;
 }
 
@@ -78,22 +78,28 @@ ul#menu li {
 }
 
 #dropMenu {
-    width: 400px;
-    height: 160px;
+    width: 305px;
+    height: 104px;
     padding: 0;
     background-color: #0D2C2D;
+}
+
+#dropMenu li {
+    margin: 0px;
+    padding: 0px;
+    width: 150px;
+    height: 20px;
 }
 
 #item1, #item2, #item3 {
     margin: 0;
     padding: 0;
     width: 205px;
-    border-left-width: 0px;
-    border-bottom-width: 1px;
-    height: 0px;
-    line-height: 0px;
 }
 
+
 #item1 a, #item2 a, #item3 a{
-    font-size: 20px;
+    font-size: 15px;
+    font-style: normal;
+    border: 0px;
 }
